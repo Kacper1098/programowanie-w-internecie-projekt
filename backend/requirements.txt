@@ -1,0 +1,15 @@
+asgiref==3.2.7
+Django==3.0.7
+django-cors-headers==3.3.0
+django-webpack-loader==0.7.0
+djangorestframework==3.11.0
+djangorestframework-jwt==1.11.0
+psycopg2==2.8.5
+PyJWT==1.7.1
+pytz==2020.1
+sqlparse==0.3.1
+django-scripts-tracker
+django-filter
+pytest-django
+model-mommy
+django-extensions

@@ -1,0 +1,10 @@
+SEX_MALE = 'm'
+SEX_FEMALE = 'f'
+SEX_UNKNOWN = 'u'
+
+
+SEX_CHOICES = (
+    (SEX_MALE,  SEX_MALE),
+    (SEX_FEMALE, SEX_FEMALE),
+    (SEX_UNKNOWN, SEX_UNKNOWN),
+)
